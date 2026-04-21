@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1766177671 source:c:\users\pc\onedrive\desktop\faculty stuff\programming\oijij\ourfunctions (1).c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1766610720 source:c:\users\pc\onedrive\desktop\faculty stuff\programming\oijij\main.c
+	<stdio.h>
+	<stdlib.h>
+	"OurFunctions.h"
+
+1766592053 c:\users\pc\onedrive\desktop\faculty stuff\programming\oijij\ourfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1766547000 source:c:\users\pc\onedrive\desktop\faculty stuff\programming\oijij\ourfunctions .c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1766610758 source:c:\users\pc\onedrive\desktop\faculty stuff\programming\oijij\ourfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1766851479 source:c:\users\pc\onedrive\desktop\faculty stuff\programming\programming final project\ourfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1766844134 source:c:\users\pc\onedrive\desktop\faculty stuff\programming\programming final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"OurFunctions.h"
+
+1766758475 c:\users\pc\onedrive\desktop\faculty stuff\programming\programming final project\ourfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1766844134 source:c:\users\pc\onedrive\desktop\faculty stuff\programming\programming final project updated\programming final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"OurFunctions.h"
+
+1766758474 c:\users\pc\onedrive\desktop\faculty stuff\programming\programming final project updated\programming final project\ourfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1766873108 source:c:\users\pc\onedrive\desktop\faculty stuff\programming\programming final project updated\programming final project\ourfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1766844134 source:c:\users\pc\onedrive\desktop\programming final project updated\programming final project updated\programming final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"OurFunctions.h"
+
+1766758474 c:\users\pc\onedrive\desktop\programming final project updated\programming final project updated\programming final project\ourfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1766877129 source:c:\users\pc\onedrive\desktop\programming final project updated\programming final project updated\programming final project\ourfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1766844134 source:c:\users\pc\onedrive\desktop\programming final project updated - copy\programming final project updated\programming final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"OurFunctions.h"
+
+1766758474 c:\users\pc\onedrive\desktop\programming final project updated - copy\programming final project updated\programming final project\ourfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1766877129 source:c:\users\pc\onedrive\desktop\programming final project updated - copy\programming final project updated\programming final project\ourfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1766844134 source:c:\users\pc\onedrive\desktop\programming final project updated - copy\programming final project updated - copy\programming final project updated\programming final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"OurFunctions.h"
+
+1766758474 c:\users\pc\onedrive\desktop\programming final project updated - copy\programming final project updated - copy\programming final project updated\programming final project\ourfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1766877128 source:c:\users\pc\onedrive\desktop\programming final project updated - copy\programming final project updated - copy\programming final project updated\programming final project\ourfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
